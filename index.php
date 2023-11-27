@@ -15,6 +15,9 @@
             <li>
                 <a href="prodi/tampil.php">Data Prodi</a>
             </li>
+            <li>
+                <a href="absen/tampil.php">Data Absen</a>
+            </li>
         </ul>
     </body>
 </html>
